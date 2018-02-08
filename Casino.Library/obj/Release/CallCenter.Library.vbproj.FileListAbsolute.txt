@@ -1,0 +1,59 @@
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\CallCenter.Library.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\CallCenter.Library.pdb
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\CallCenter.Library.xml
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\Csla.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\Csla.pdb
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\Csla.xml
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\ca-ES\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\da\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\de\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\es\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\es-ES\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\fr\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\hr\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\it\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\nl\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\no\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\pt\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\pt-br\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\ro\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\ru\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\sr\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\sv\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\zh-CHS\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Release\Csla.XmlSerializers.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Release\ResolveAssemblyReference.cache
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Release\CallCenter.Library.Resources.resources
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Release\CallCenter.Library.vbproj.GenerateResource.Cache
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Release\CallCenter.Library.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Release\CallCenter.Library.xml
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Release\CallCenter.Library.pdb
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\CallCenter.Library.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\CallCenter.Library.pdb
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\CallCenter.Library.xml
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\Csla.pdb
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\Csla.xml
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\ca-ES\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\da\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\de\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\es\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\es-ES\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\fr\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\hr\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\it\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\nl\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\no\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\pt\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\pt-br\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\ro\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\ru\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\sr\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\sv\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\zh-CHS\Csla.resources.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Release\Csla.XmlSerializers.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\obj\Release\CallCenter.Library.Resources.resources
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\obj\Release\CallCenter.Library.vbproj.GenerateResource.Cache
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\obj\Release\CallCenter.Library.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\obj\Release\CallCenter.Library.xml
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\obj\Release\CallCenter.Library.pdb

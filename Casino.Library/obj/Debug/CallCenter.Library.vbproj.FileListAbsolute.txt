@@ -1,0 +1,222 @@
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.pdb
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.xml
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\Csla.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\Csla.pdb
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\Csla.xml
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\ca-ES\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\da\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\de\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\es\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\es-ES\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\fr\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\hr\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\it\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\nl\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\no\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\pt\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\pt-br\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\ro\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\ru\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\sr\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\sv\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\zh-CHS\Csla.resources.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\ResolveAssemblyReference.cache
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.Resources.resources
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.vbproj.GenerateResource.Cache
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.dll
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.xml
+D:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.pdb
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.pdb
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.xml
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\Csla.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\Csla.pdb
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\Csla.xml
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\ca-ES\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\da\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\de\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\es\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\es-ES\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\fr\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\hr\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\it\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\nl\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\no\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\pt\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\pt-br\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\ro\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\ru\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\sr\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\sv\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\zh-CHS\Csla.resources.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\ResolveAssemblyReference.cache
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.Resources.resources
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.vbproj.GenerateResource.Cache
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.dll
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.xml
+E:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.pdb
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.pdb
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.xml
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\Csla.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\Csla.pdb
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\Csla.xml
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\ca-ES\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\da\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\de\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\es\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\es-ES\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\fr\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\hr\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\it\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\nl\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\no\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\pt\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\pt-br\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\ro\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\ru\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\sr\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\sv\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\zh-CHS\Csla.resources.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\ResolveAssemblyReference.cache
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.Resources.resources
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.vbproj.GenerateResource.Cache
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.dll
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.xml
+F:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.pdb
+H:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.dll
+H:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.pdb
+H:\Proyect VBNET35\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.xml
+H:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\ResolveAssemblyReference.cache
+H:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.Resources.resources
+H:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.vbproj.GenerateResource.Cache
+H:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.dll
+H:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.xml
+H:\Proyect VBNET35\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.pdb
+E:\proyectos\CallCenter\CallCenter.Library\obj\Debug\ResolveAssemblyReference.cache
+E:\proyectos\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.Resources.resources
+E:\proyectos\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.vbproj.GenerateResource.Cache
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.pdb
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.xml
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\Csla.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\Csla.pdb
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\Csla.xml
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\ca-ES\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\da\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\de\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\es\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\es-ES\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\fr\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\hr\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\it\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\nl\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\no\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\pt\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\pt-br\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\ro\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\ru\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\sr\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\sv\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\zh-CHS\Csla.resources.dll
+E:\proyectos\CallCenter\CallCenter.Library\bin\Debug\Csla.XmlSerializers.dll
+E:\proyectos\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.dll
+E:\proyectos\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.xml
+E:\proyectos\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.pdb
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.pdb
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.xml
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\Csla.pdb
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\Csla.xml
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\ca-ES\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\da\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\de\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\es\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\es-ES\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\fr\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\hr\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\it\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\nl\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\no\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\pt\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\pt-br\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\ro\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\ru\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\sr\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\sv\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\zh-CHS\Csla.resources.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\bin\Debug\Csla.XmlSerializers.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.Resources.resources
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.vbproj.GenerateResource.Cache
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.dll
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.xml
+C:\Users\Oscar\Desktop\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.pdb
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.pdb
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.xml
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.Resources.resources
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.vbproj.GenerateResource.Cache
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.dll
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.xml
+C:\Documents and Settings\aroman.CM\Mis documentos\Visual Studio 2008\Projects\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.pdb
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.pdb
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\CallCenter.Library.xml
+C:\proyectos\CallCenter\CallCenter.Library\obj\Debug\ResolveAssemblyReference.cache
+C:\proyectos\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.Resources.resources
+C:\proyectos\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.vbproj.GenerateResource.Cache
+C:\proyectos\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.dll
+C:\proyectos\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.xml
+C:\proyectos\CallCenter\CallCenter.Library\obj\Debug\CallCenter.Library.pdb
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\Csla.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\Csla.pdb
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\Csla.xml
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\ca-ES\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\da\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\de\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\es\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\es-ES\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\fr\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\hr\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\it\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\nl\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\no\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\pt\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\pt-br\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\ro\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\ru\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\sr\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\sv\Csla.resources.dll
+C:\proyectos\CallCenter\CallCenter.Library\bin\Debug\zh-CHS\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\CallCenter.Library.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\CallCenter.Library.pdb
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\CallCenter.Library.xml
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\Csla.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\Csla.pdb
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\Csla.xml
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\ca-ES\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\da\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\de\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\es\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\es-ES\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\fr\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\hr\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\it\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\nl\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\no\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\pt\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\pt-br\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\ro\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\ru\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\sr\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\sv\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\bin\Debug\zh-CHS\Csla.resources.dll
+C:\proyectos\Casino\CallCenter.Library\obj\Debug\ResolveAssemblyReference.cache
+C:\proyectos\Casino\CallCenter.Library\obj\Debug\CallCenter.Library.Resources.resources
+C:\proyectos\Casino\CallCenter.Library\obj\Debug\CallCenter.Library.vbproj.GenerateResource.Cache
+C:\proyectos\Casino\CallCenter.Library\obj\Debug\CallCenter.Library.dll
+C:\proyectos\Casino\CallCenter.Library\obj\Debug\CallCenter.Library.xml
+C:\proyectos\Casino\CallCenter.Library\obj\Debug\CallCenter.Library.pdb

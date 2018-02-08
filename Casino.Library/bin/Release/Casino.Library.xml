@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Casino.Library
+</name>
+</assembly>
+<members>
+<member name="M:Casino.Library.GlosasList.InvalidateCache">
+ <summary>
+ Clears the in-memory RoleList cache
+ so the list of roles is reloaded on
+ next request.
+ </summary>
+</member>
+<member name="T:Casino.Library.Admin.Roles">
+ <summary>
+ Used to maintain the list of roles
+ in the system.
+ </summary>
+</member>
+<member name="M:Casino.Library.Admin.Roles.Remove(System.Int32)">
+ <summary>
+ Remove a role based on the role's
+ id value.
+ </summary>
+ <param name="id">Id value of the role to remove.</param>
+</member>
+<member name="M:Casino.Library.Admin.Roles.GetRoleById(System.Int32)">
+ <summary>
+ Get a role bsaed on its id value.
+ </summary>
+ <param name="id">Id value of the role to return.</param>
+</member>
+<member name="M:Casino.Library.RoleList.InvalidateCache">
+ <summary>
+ Clears the in-memory RoleList cache
+ so the list of roles is reloaded on
+ next request.
+ </summary>
+</member>
+</members>
+</doc>

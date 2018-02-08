@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CasinoContable
+</name>
+</assembly>
+<members>
+<member name="P:CasinoContable.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CasinoContable.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CasinoContable.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:CasinoContable.ConsumosPorMes.ConsumoPorMesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CasinoContable.ConsumosPorMes.SubTotalConsumoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CasinoContable.ConsumosPorMes.ConsumoPorMesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CasinoContable.ConsumosPorMes.SubTotalConsumoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CasinoContable.ConsumosPorMes.ConsumoPorMesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CasinoContable.ConsumosPorMes.SubTotalConsumoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CasinoContable.ConsumosPorMes">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

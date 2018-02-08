@@ -1,0 +1,212 @@
+C:\proyectos\Casino\Casino2008\Casino\obj\Debug\ResolveAssemblyReference.cache
+C:\proyectos\Casino\Casino2008\Casino\obj\Debug\Casino.FormMain2.resources
+C:\proyectos\Casino\Casino2008\Casino\obj\Debug\Casino.LoginForm.resources
+C:\proyectos\Casino\Casino2008\Casino\obj\Debug\Casino.Resources.resources
+C:\proyectos\Casino\Casino2008\Casino\obj\Debug\Casino.Tesoreria.resources
+C:\proyectos\Casino\Casino2008\Casino\obj\Debug\Casino.vbproj.GenerateResource.Cache
+C:\proyectos\Casino\Casino2008\Casino\obj\Debug\Casino.exe.manifest
+C:\proyectos\Casino\Casino2008\Casino\obj\Debug\Casino.exe
+C:\proyectos\Casino\Casino2008\Casino\obj\Debug\Casino.xml
+C:\proyectos\Casino\Casino2008\Casino\obj\Debug\Casino.pdb
+C:\proyectos\Casino\Casino2008\Casino\bin\Casino.exe.config
+C:\proyectos\Casino\Casino2008\Casino\bin\Casino.exe.manifest
+C:\proyectos\Casino\Casino2008\Casino\bin\Casino.application
+C:\proyectos\Casino\Casino2008\Casino\bin\Casino.exe
+C:\proyectos\Casino\Casino2008\Casino\bin\Casino.pdb
+C:\proyectos\Casino\Casino2008\Casino\bin\Casino.xml
+C:\proyectos\Casino\Casino2008\Casino\bin\Casino.Library.dll
+C:\proyectos\Casino\Casino2008\Casino\bin\Csla.dll
+C:\proyectos\Casino\Casino2008\Casino\bin\System.Deployment.dll
+C:\proyectos\Casino\Casino2008\Casino\bin\Casino.Library.pdb
+C:\proyectos\Casino\Casino2008\Casino\bin\Casino.Library.xml
+C:\proyectos\Casino\Casino2008\Casino\obj\Debug\Casino.application
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\bin\Casino.exe.config
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\bin\Casino.exe.manifest
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\bin\Casino.application
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\bin\Casino.exe
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\bin\Casino.pdb
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\bin\Casino.xml
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\bin\Casino.Library.dll
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\bin\Csla.dll
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\bin\System.Deployment.dll
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\bin\Casino.Library.pdb
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\bin\Casino.Library.xml
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\obj\Debug\Casino.FormMain2.resources
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\obj\Debug\Casino.LoginForm.resources
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\obj\Debug\Casino.Resources.resources
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\obj\Debug\Casino.Tesoreria.resources
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\obj\Debug\Casino.vbproj.GenerateResource.Cache
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\obj\Debug\Casino.exe.manifest
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\obj\Debug\Casino.application
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\obj\Debug\Casino.exe
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\obj\Debug\Casino.xml
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\obj\Debug\Casino.pdb
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\obj\Debug\Casino.Asistentes.resources
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\obj\Debug\Casino.Rut.resources
+C:\Documents and Settings\aroman.CM\Escritorio\Casino2008\Casino\obj\Debug\Casino.Administrador.resources
+C:\Proyectos\Casino\Casino2008\Casino\obj\Debug\Casino.Administrador.resources
+C:\Proyectos\Casino\Casino2008\Casino\obj\Debug\Casino.Asistentes.resources
+C:\Proyectos\Casino\Casino2008\Casino\obj\Debug\Casino.Rut.resources
+C:\proyectos\Casino2008\Casino\bin\Casino.exe.config
+C:\proyectos\Casino2008\Casino\bin\Casino.exe.manifest
+C:\proyectos\Casino2008\Casino\bin\Casino.application
+C:\proyectos\Casino2008\Casino\bin\Casino.exe
+C:\proyectos\Casino2008\Casino\bin\Casino.pdb
+C:\proyectos\Casino2008\Casino\bin\Casino.xml
+C:\proyectos\Casino2008\Casino\bin\Casino.Library.dll
+C:\proyectos\Casino2008\Casino\bin\Csla.dll
+C:\proyectos\Casino2008\Casino\bin\System.Deployment.dll
+C:\proyectos\Casino2008\Casino\bin\Casino.Library.pdb
+C:\proyectos\Casino2008\Casino\bin\Casino.Library.xml
+C:\proyectos\Casino2008\Casino\obj\Debug\ResolveAssemblyReference.cache
+C:\proyectos\Casino2008\Casino\obj\Debug\Casino.Administrador.resources
+C:\proyectos\Casino2008\Casino\obj\Debug\Casino.Asistentes.resources
+C:\proyectos\Casino2008\Casino\obj\Debug\Casino.FormMain2.resources
+C:\proyectos\Casino2008\Casino\obj\Debug\Casino.Contador.resources
+C:\proyectos\Casino2008\Casino\obj\Debug\Casino.LoginForm.resources
+C:\proyectos\Casino2008\Casino\obj\Debug\Casino.Resources.resources
+C:\proyectos\Casino2008\Casino\obj\Debug\Casino.Rut.resources
+C:\proyectos\Casino2008\Casino\obj\Debug\Casino.Tesoreria.resources
+C:\proyectos\Casino2008\Casino\obj\Debug\Casino.vbproj.GenerateResource.Cache
+C:\proyectos\Casino2008\Casino\obj\Debug\Casino.exe.manifest
+C:\proyectos\Casino2008\Casino\obj\Debug\Casino.application
+C:\proyectos\Casino2008\Casino\obj\Debug\Casino.exe
+C:\proyectos\Casino2008\Casino\obj\Debug\Casino.xml
+C:\proyectos\Casino2008\Casino\obj\Debug\Casino.pdb
+F:\Arquisoft\Casino2008\Casino\bin\Casino.exe.config
+F:\Arquisoft\Casino2008\Casino\bin\Casino.exe.manifest
+F:\Arquisoft\Casino2008\Casino\bin\Casino.application
+F:\Arquisoft\Casino2008\Casino\bin\Casino.exe
+F:\Arquisoft\Casino2008\Casino\bin\Casino.pdb
+F:\Arquisoft\Casino2008\Casino\bin\Casino.xml
+F:\Arquisoft\Casino2008\Casino\bin\Casino.Library.dll
+F:\Arquisoft\Casino2008\Casino\bin\Csla.dll
+F:\Arquisoft\Casino2008\Casino\bin\System.Deployment.dll
+F:\Arquisoft\Casino2008\Casino\bin\Casino.Library.pdb
+F:\Arquisoft\Casino2008\Casino\bin\Casino.Library.xml
+F:\Arquisoft\Casino2008\Casino\obj\Debug\ResolveAssemblyReference.cache
+F:\Arquisoft\Casino2008\Casino\obj\Debug\Casino.Administrador.resources
+F:\Arquisoft\Casino2008\Casino\obj\Debug\Casino.Asistentes.resources
+F:\Arquisoft\Casino2008\Casino\obj\Debug\Casino.FormMain2.resources
+F:\Arquisoft\Casino2008\Casino\obj\Debug\Casino.Contador.resources
+F:\Arquisoft\Casino2008\Casino\obj\Debug\Casino.LoginForm.resources
+F:\Arquisoft\Casino2008\Casino\obj\Debug\Casino.Resources.resources
+F:\Arquisoft\Casino2008\Casino\obj\Debug\Casino.Rut.resources
+F:\Arquisoft\Casino2008\Casino\obj\Debug\Casino.Tesoreria.resources
+F:\Arquisoft\Casino2008\Casino\obj\Debug\Casino.vbproj.GenerateResource.Cache
+F:\Arquisoft\Casino2008\Casino\obj\Debug\Casino.exe.manifest
+F:\Arquisoft\Casino2008\Casino\obj\Debug\Casino.application
+F:\Arquisoft\Casino2008\Casino\obj\Debug\Casino.exe
+F:\Arquisoft\Casino2008\Casino\obj\Debug\Casino.xml
+F:\Arquisoft\Casino2008\Casino\obj\Debug\Casino.pdb
+C:\Proyecto\Casino2008\Casino\bin\Casino.exe.config
+C:\Proyecto\Casino2008\Casino\obj\Debug\Casino.exe
+C:\Proyecto\Casino2008\Casino\obj\Debug\Casino.xml
+C:\Proyecto\Casino2008\Casino\obj\Debug\Casino.pdb
+C:\Proyecto\Casino2008\Casino\bin\Casino.exe.manifest
+C:\Proyecto\Casino2008\Casino\bin\Casino.application
+C:\Proyecto\Casino2008\Casino\bin\Casino.exe
+C:\Proyecto\Casino2008\Casino\bin\Casino.pdb
+C:\Proyecto\Casino2008\Casino\bin\Casino.xml
+C:\Proyecto\Casino2008\Casino\bin\Casino.Library.dll
+C:\Proyecto\Casino2008\Casino\bin\Csla.dll
+C:\Proyecto\Casino2008\Casino\bin\System.Deployment.dll
+C:\Proyecto\Casino2008\Casino\bin\Casino.Library.pdb
+C:\Proyecto\Casino2008\Casino\bin\Casino.Library.xml
+C:\Proyecto\Casino2008\Casino\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyecto\Casino2008\Casino\obj\Debug\Casino.Administrador.resources
+C:\Proyecto\Casino2008\Casino\obj\Debug\Casino.Asistentes.resources
+C:\Proyecto\Casino2008\Casino\obj\Debug\Casino.FormMain2.resources
+C:\Proyecto\Casino2008\Casino\obj\Debug\Casino.Contador.resources
+C:\Proyecto\Casino2008\Casino\obj\Debug\Casino.LoginForm.resources
+C:\Proyecto\Casino2008\Casino\obj\Debug\Casino.Resources.resources
+C:\Proyecto\Casino2008\Casino\obj\Debug\Casino.Rut.resources
+C:\Proyecto\Casino2008\Casino\obj\Debug\Casino.Tesoreria.resources
+C:\Proyecto\Casino2008\Casino\obj\Debug\Casino.vbproj.GenerateResource.Cache
+C:\Proyecto\Casino2008\Casino\obj\Debug\Casino.exe.manifest
+C:\Proyecto\Casino2008\Casino\obj\Debug\Casino.application
+C:\Proyectos\Casino2008V1\Casino\bin\Casino.exe.config
+C:\Proyectos\Casino2008V1\Casino\bin\Casino.exe.manifest
+C:\Proyectos\Casino2008V1\Casino\bin\Casino.application
+C:\Proyectos\Casino2008V1\Casino\bin\Casino.exe
+C:\Proyectos\Casino2008V1\Casino\bin\Casino.pdb
+C:\Proyectos\Casino2008V1\Casino\bin\Casino.xml
+C:\Proyectos\Casino2008V1\Casino\bin\Casino.Library.dll
+C:\Proyectos\Casino2008V1\Casino\bin\Csla.dll
+C:\Proyectos\Casino2008V1\Casino\bin\System.Deployment.dll
+C:\Proyectos\Casino2008V1\Casino\bin\Casino.Library.pdb
+C:\Proyectos\Casino2008V1\Casino\bin\Casino.Library.xml
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.Administrador.resources
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.Asistentes.resources
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.FormMain2.resources
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.CasinoAdmin.resources
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.Contador.resources
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.LoginForm.resources
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.Resources.resources
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.Rut.resources
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.Tesoreria.resources
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.vbproj.GenerateResource.Cache
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.exe.manifest
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.application
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.exe
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.xml
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.pdb
+C:\Proyectos\Casino2008V1\Casino\obj\Debug\Casino.Consumos.resources
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.Administrador.resources
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.Asistentes.resources
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.FormMain2.resources
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.CasinoAdmin.resources
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.Consumos.resources
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.Contador.resources
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.LoginForm.resources
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.Resources.resources
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.Rut.resources
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.Tesoreria.resources
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.vbproj.GenerateResource.Cache
+C:\Proyectos\Casino2008V2\Casino\bin\Casino.exe.config
+C:\Proyectos\Casino2008V2\Casino\bin\Casino.exe.manifest
+C:\Proyectos\Casino2008V2\Casino\bin\Casino.application
+C:\Proyectos\Casino2008V2\Casino\bin\Casino.exe
+C:\Proyectos\Casino2008V2\Casino\bin\Casino.pdb
+C:\Proyectos\Casino2008V2\Casino\bin\Casino.xml
+C:\Proyectos\Casino2008V2\Casino\bin\Casino.Library.dll
+C:\Proyectos\Casino2008V2\Casino\bin\Csla.dll
+C:\Proyectos\Casino2008V2\Casino\bin\System.Deployment.dll
+C:\Proyectos\Casino2008V2\Casino\bin\Casino.Library.pdb
+C:\Proyectos\Casino2008V2\Casino\bin\Casino.Library.xml
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.exe.manifest
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.application
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.exe
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.xml
+C:\Proyectos\Casino2008V2\Casino\obj\Debug\Casino.pdb
+C:\Casino2008V2\Casino\bin\Casino.exe.config
+C:\Casino2008V2\Casino\bin\Casino.exe.manifest
+C:\Casino2008V2\Casino\bin\Casino.application
+C:\Casino2008V2\Casino\bin\Casino.exe
+C:\Casino2008V2\Casino\bin\Casino.pdb
+C:\Casino2008V2\Casino\bin\Casino.xml
+C:\Casino2008V2\Casino\bin\Casino.Library.dll
+C:\Casino2008V2\Casino\bin\Csla.dll
+C:\Casino2008V2\Casino\bin\System.Deployment.dll
+C:\Casino2008V2\Casino\bin\Casino.Library.pdb
+C:\Casino2008V2\Casino\bin\Casino.Library.xml
+C:\Casino2008V2\Casino\obj\Debug\Casino.vbprojResolveAssemblyReference.cache
+C:\Casino2008V2\Casino\obj\Debug\Casino.Administrador.resources
+C:\Casino2008V2\Casino\obj\Debug\Casino.Asistentes.resources
+C:\Casino2008V2\Casino\obj\Debug\Casino.FormMain2.resources
+C:\Casino2008V2\Casino\obj\Debug\Casino.CasinoAdmin.resources
+C:\Casino2008V2\Casino\obj\Debug\Casino.Consumos.resources
+C:\Casino2008V2\Casino\obj\Debug\Casino.Contador.resources
+C:\Casino2008V2\Casino\obj\Debug\Casino.LoginForm.resources
+C:\Casino2008V2\Casino\obj\Debug\Casino.Resources.resources
+C:\Casino2008V2\Casino\obj\Debug\Casino.Rut.resources
+C:\Casino2008V2\Casino\obj\Debug\Casino.Tesoreria.resources
+C:\Casino2008V2\Casino\obj\Debug\Casino.vbproj.GenerateResource.Cache
+C:\Casino2008V2\Casino\obj\Debug\Casino.exe.manifest
+C:\Casino2008V2\Casino\obj\Debug\Casino.application
+C:\Casino2008V2\Casino\obj\Debug\Casino.exe
+C:\Casino2008V2\Casino\obj\Debug\Casino.xml
+C:\Casino2008V2\Casino\obj\Debug\Casino.pdb

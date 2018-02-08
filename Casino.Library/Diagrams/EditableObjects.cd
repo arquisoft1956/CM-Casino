@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="ProjectTracker.Library.Project" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Project.vb</FileName>
+      <HashCode>IABCEKgRIAggRAEAAAgIAgQAAIJAgBEAAhghAAUAiAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProjectTracker.Library.Resource" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Resource.vb</FileName>
+      <HashCode>JAJCkMgAAAAARIAAAAgIAAIAAABAhAEEABgBCAEAiAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectTracker.Library.Admin.Role" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Admin\Role.vb</FileName>
+      <HashCode>QARCEEEAAAAAAAAAgAAKAAQAAAAAAAAAAAggAUAAiQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectTracker.Library.ProjectResource" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ProjectResource.vb</FileName>
+      <HashCode>AARAAEAAAggAgIAAEAEIAAAAAAAIBAAEAAAASEAAigg=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProjectTracker.Library.ResourceAssignment" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ResourceAssignment.vb</FileName>
+      <HashCode>AARAAEAAAAAAAABAGAGIAAAABAAIAAAgAgAAQEAIigA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ProjectTracker.Library.Admin.Roles" Collapsed="true">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Admin\Roles.vb</FileName>
+      <HashCode>IAAAAIAAAAAARAAAEAAAhAACACAAgAEAAAgAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectTracker.Library.ResourceAssignments" Collapsed="true">
+    <Position X="5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ResourceAssignments.vb</FileName>
+      <HashCode>AAQAAAAAAAAAAAAAAAEABAAEIAAAgAAAEAAAQAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectTracker.Library.ProjectResources" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ProjectResources.vb</FileName>
+      <HashCode>AAQAAAQAAAAAAGAAAAEABAAAAAAAAAAAAAAAQBAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Csla.BusinessBase(Of T)" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Csla.BusinessListBase(Of T, C)" Collapsed="true">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+</ClassDiagram>

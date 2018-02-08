@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProjectTracker.Library
+</name>
+</assembly>
+<members>
+<member name="P:ProjectTracker.Library.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:ProjectTracker.Library.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:ProjectTracker.Library.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="M:ProjectTracker.Library.Assignment.ValidRole(System.Object,Csla.Validation.RuleArgs)">
+	<summary>
+ Ensure the Role property value exists
+ in RoleList
+ </summary>
+</member><member name="M:ProjectTracker.Library.Admin.Roles.Remove(System.Int32)">
+	<summary>
+ Remove a role based on the role's
+ id value.
+ </summary>
+	<param name="id">Id value of the role to remove.</param>
+</member><member name="M:ProjectTracker.Library.Admin.Roles.GetRoleById(System.Int32)">
+	<summary>
+ Get a role bsaed on its id value.
+ </summary>
+	<param name="id">Id value of the role to return.</param>
+</member><member name="T:ProjectTracker.Library.Admin.Roles">
+	<summary>
+ Used to maintain the list of roles
+ in the system.
+ </summary>
+</member><member name="M:ProjectTracker.Library.RoleList.InvalidateCache">
+	<summary>
+ Clears the in-memory RoleList cache
+ so the list of roles is reloaded on
+ next request.
+ </summary>
+</member>
+</members>
+</doc>
